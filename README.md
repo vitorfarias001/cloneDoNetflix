@@ -4,7 +4,9 @@
  <br>
 </h1>
  <br>
- <p align="center">Este site é um clone do netflix para fins de prática e estudo.<br> Todo direito de imagem pertencem a Netflix.</p>
+ <p align="center">Este site é um clone do netflix para fins de prática e estudo aprendido vendo o tutorial de -Bonieky Lacerda-
+ https://www.youtube.com/watch?v=tBweoUiMsDg
+.<br> Todo direito de imagem pertencem a Netflix.</p>
 
 ## 1º Funcionalidade - Animação Barra do Topo
 <p>mudança gradual da barra no top do site, que é apresentada<br> após fazer um leve scroll para baixo</p>
